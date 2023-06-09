@@ -1,3 +1,3 @@
 # Brian_Ruiz_Java
 
-First module challenge for Netflix Pathways
+Module challenges for the Netflix Pathways Bootcamp
